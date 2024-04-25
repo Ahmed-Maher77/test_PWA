@@ -1,0 +1,27 @@
+{
+    "name": "Ahmed_Maher PWA APP",
+    "short_name": "Ahmed_Maher PWA APP",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/images/icon-192x192.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/images/icon-256x256.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/images/icon-384x384.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/images/icon-512x512.png",
+        "type": "image/png", "sizes": "144x144"
+      }
+    ]
+  }
